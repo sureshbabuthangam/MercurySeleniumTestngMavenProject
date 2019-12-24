@@ -1,0 +1,4 @@
+com\mercury\pages\HomePage.class
+com\mercury\pages\SignOnPage.class
+com\mercury\testbase\TestBase.class
+com\mercury\util\TestUtil.class
